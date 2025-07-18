@@ -1,4 +1,3 @@
-# IOT based Automation System for Efficient Production of Vermicompost Manure
 # IoT-Based Automation System for Efficient Production of Vermicompost Manure
 
 ![vermicompost](https://img.shields.io/badge/IoT-Arduino-green)
